@@ -1,0 +1,36 @@
+.form-container{
+  margin-top: 3rem;
+  border: 0.2rem solid #ececec;
+  border-radius: 5px;
+}
+
+.label-align{
+  text-align: left;
+}
+
+.text-input{
+  width: 70%;
+  box-align: right;
+  border: 0.025rem solid gainsboro;
+  border-radius: 5px;
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}

@@ -1,3 +1,5 @@
+@import url('./Custom.css');
+
 .App {
   text-align: center;
 }
@@ -5,6 +7,12 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.page-container{
+  width: 595px;
+  height: 842px;
+  border: 1px solid grey;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,3 +44,5 @@
     transform: rotate(360deg);
   }
 }
+
+
